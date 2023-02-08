@@ -13,6 +13,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=CodeWizarz&label=Profile%20Views&color=12&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=CodeWizarz&label=Profile%20Views&color=12&icon=8&pretty=false" />
 </a>
