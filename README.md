@@ -2,7 +2,8 @@
 🔭 Meet Bobby, a driven individual who is currently pursuing a career in frontend development. With a passion for creating visually stunning and user-friendly websites, Bobby is constantly learning and staying up-to-date on the latest technologies in the field.
 
 # 🧭 Explore:
-🔭 Explore all my works in one place.I have organized all my works at one place to navigate easily so you don't have to
+🔭 Explore all my works in one place.I have organized all my works at one place to navigate easily so you don't have to   
+
 ![LinkTree](htps://nxtlink.vercel.app)
 
 # 💻 Tech Stack:
